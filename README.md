@@ -4,7 +4,8 @@ A production-grade, fully interactive calendar component built from scratch with
 
 ## 🎯 Live Demo
 
-**Storybook:** [Deploy your Storybook and add link here]
+- **Application:** https://calendar-view-component-h0fa8u5cq-kartikchanes-projects.vercel.app
+- **Storybook:** https://storybookstatic-dusny7cfs-kartikchanes-projects.vercel.app
 
 ## ✨ Features
 
